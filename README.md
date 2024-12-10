@@ -13,6 +13,9 @@ Run the following command:
 ```sh
 npx create-turbo@latest
 ```
+Run the project:
+
+yarn dev
 
 ## What's inside?
 
